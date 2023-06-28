@@ -17,7 +17,7 @@
         <java.version>17</java.version>
         <spring-cloud.version>2021.0.7</spring-cloud.version>
         <sonar.projectKey>raushan3737_springboot-assignment-monolithic</sonar.projectKey>
-        <sonar.organization>raushan3737-1</sonar.organization>
+         <sonar.organization>raushan3737-2</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
         <!--  JaCoCo Properties  -->
