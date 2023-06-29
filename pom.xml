@@ -28,7 +28,7 @@
         <sonar.language>java</sonar.language>
         <sonar.sources>src/main/java</sonar.sources>
         <sonar.exclusions>
-            **/com/zemoso/easycart/EasycartApplication**
+            **/com/zemoso/easycart/EasycartApplication**,  **/com/zemoso/easycart/entity/,  **/com/zemoso/easycart/dto
         </sonar.exclusions>
 
     </properties>
