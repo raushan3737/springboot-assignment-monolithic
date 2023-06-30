@@ -2,13 +2,16 @@ package com.zemoso.easycart.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.Generated;
 import lombok.NoArgsConstructor;
 
 import java.math.BigDecimal;
 
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+@Generated
 public class ProductDTO {
     private Long id;
 

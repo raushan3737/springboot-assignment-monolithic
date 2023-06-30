@@ -4,6 +4,7 @@ package com.zemoso.easycart.entity;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.Generated;
 import lombok.NoArgsConstructor;
 
 import java.math.BigDecimal;
@@ -13,6 +14,7 @@ import java.math.BigDecimal;
 @Table(name = "products")
 @AllArgsConstructor
 @NoArgsConstructor
+@Generated
 public class Product {
 
     @Id

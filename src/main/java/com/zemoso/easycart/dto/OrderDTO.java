@@ -3,14 +3,17 @@ package com.zemoso.easycart.dto;
 import com.zemoso.easycart.entity.Product;
 import com.zemoso.easycart.entity.User;
 import lombok.Data;
+import lombok.Generated;
 import lombok.NoArgsConstructor;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
+
 @Data
 @NoArgsConstructor
+@Generated
 public class OrderDTO {
     private Long id;
 

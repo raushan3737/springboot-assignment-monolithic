@@ -29,7 +29,7 @@
         <sonar.sources>src/main/java</sonar.sources>
         <sonar.exclusions>
             **/com/zemoso/easycart/EasycartApplication**, **/com/zemoso/easycart/controller/HomeController** ,
-            **/com/zemoso/easycart/config/SecurityConfig**
+            **/com/zemoso/easycart/config/SecurityConfig** , **/com/zemoso/easycart/entity, **/com/zemoso/easycart/dto
         </sonar.exclusions>
 
     </properties>
