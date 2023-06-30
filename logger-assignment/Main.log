@@ -1,0 +1,6 @@
+2023-06-30 13:16:47 => [LoggerApp] [INFO] Inside generateLog()
+2023-06-30 13:16:47 => [LoggerApp] [INFO] Info logging
+2023-06-30 13:16:47 => [LoggerApp] [WARN] Warn logging
+2023-06-30 13:16:47 => [LoggerApp] [ERROR] Error logging
+2023-06-30 13:16:47 => [LoggerApp] [DEBUG] Debug logging
+2023-06-30 13:16:47 => [LoggerApp] [INFO] Student: Student(id=1, name=Raushan, phone=9102615948)
